@@ -6,9 +6,13 @@
     <title>Git</title>
 </head>
 <body>
-    <h1>Git begin by Baskakov</h1>
-    <p>New branch in this directory was --git add and index.php file was updated</p>
-    <p>More updates...</p>
-    <p>Second update index.php file</p>
+<div class="container">
+    <div class="wrap-row">
+        <div class="block-12">
+            <h1>New snapshot 4d commit</h1>
+            <p>Ula-la-la</p>
+        </div>
+    </div>
+</div>
 </body>
 </html>
