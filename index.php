@@ -8,6 +8,7 @@
 <body>
     <h1>Git begin by Baskakov</h1>
     <p>New branch in this directory was --git add and index.php file was updated</p>
-    <p>More updates</p>
+    <p>More updates...</p>
+    <p>Second update index.php file</p>
 </body>
 </html>
